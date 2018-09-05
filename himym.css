@@ -1,0 +1,12 @@
+#images img {
+    width: 170px;
+}
+
+#images td {
+    padding: 0;
+    text-align: center;
+}
+
+#frase {
+    padding: 30px 0 30px 0 !important;
+}
